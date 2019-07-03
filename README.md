@@ -1,3 +1,10 @@
+> # Project moved
+> The project has been moved to a new organization: https://github.com/emperror
+>
+> It also received a vanity import URL: `emperror.dev/emperror`
+>
+> This package will stay here to provide backward compatibility, but it won't receive any updates. Please follow the new repositories.
+
 ![Emperror](/.github/logo.png?raw=true)
 
 [![CircleCI](https://circleci.com/gh/goph/emperror.svg?style=svg)](https://circleci.com/gh/goph/emperror)
