@@ -1,4 +1,4 @@
-> # Project moved
+> # ⚠ Project moved
 > The project has been moved to a new organization: https://github.com/emperror
 >
 > It also received a vanity import URL: `emperror.dev/emperror`
